@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "1.18.3",
+    "body-parser": "1.20.3",
     "debug": "4.1.0",
     "snyk": "*",
     "lodash": "4.17.11",
@@ -17,6 +17,6 @@
     "chalk": "~2.4.0",
     "react": ">=15.6.1 <16.3.2",
     "qs": "1.2.2",
-    "express": "4.12.4"
+    "express": "4.20.0"
   }
 }
